@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+  padding-top: 50px;
+
+}
+
+
+
+
+.div1{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin-top: 10px;
+}
+.div2{
+  height: 200px;
+  width: 200px;
+
+}
+
+.pastki-bulut {
+  position: absolute;
+  width: 200px;
+  left: 250px;
+
+}
+
+.tepadegi-bulut {
+  position: relative;
+  width: 200px;
+  left: 350px;
+  top: 100px;
+}
+
+.tog-rasmi {
+
+  position: relative;
+  top: 40px;
+  width: 800px;
+  height: 500px;
+}
+.profile {
+  position: relative;
+  top:  60px;
+}
+
+
+}
+
+.coding {
+  position: relative;
+  border-radius: 50px;
+
+}
+hr {
+        height: 5px;
+        background-color: blue;
+        border: none;
+    }
+
+
+#me {
+  font-size: 50px;
+  color: blue;
+}
+
+.footer-link{
+  font-size: 30px;
+}
+
+.btn{
+  font-size: 35px;
+}
+
+
+.div0 {
+  background-color: #FE83C6;
+}
+
+.bola-rasmi{
+  position: relative;
+  top: 30px;
+  border-radius: 50px;
+
+
+
+}
+
+#pi {
+  color: 40514E;
+  width: 29%;
+  margin: auto;
+  position: relative;
+  bottom: 20px;
+}
+
+.middle-container{
+  background-color: #FBF8F1;
+}
